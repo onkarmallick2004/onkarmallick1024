@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onkar Mallick</h1>
-<h3 align="center">A passionate Frontend Developer & Aspiring AI/ML Engineer from India 🇮🇳</h3>
+<h3 align="center">An Aspiring AI/ML Engineer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=onkarmallick2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
